@@ -1,4 +1,8 @@
-### JavaScript 提供八种不同的数据类型，它们是 undefined（未定义）、null（空）、boolean（布尔型）、string（字符串）、symbol、number（数字）、bigint（可以表示任意大的整数）和 object（对象）
+## javascript 个人练习代码储存仓库
+
+
+### JavaScript 提供八种不同的数据类型
+undefined（未定义）、null（空）、boolean（布尔型）、string（字符串）、symbol、number（数字）、bigint（可以表示任意大的整数）和 object（对象）
 
 ### 我们也可以把小数存储到变量中。 小数有时候也被称作浮点数或者 floats。
 
@@ -10,7 +14,7 @@
 
 或者 const myStr = 'I am a "double quoted" string inside "double quotes'. 输出为 myStr = "I am a "double quoted" string inside "double quotes"." 
 
-### \'单引号    \"双引号   \\	反斜杠   \n	换行符   \t	制表符   \r	回车  \b退格    \f换页符
+###  \'单引号    \"双引号   \\	反斜杠   \n	换行符   \t	制表符   \r	回车  \b退格    \f换页符
 
 ### 数组 const x = [];  数组嵌套 const x = [[],[]]  
  
